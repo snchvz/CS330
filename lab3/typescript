@@ -1,0 +1,9 @@
+Script started on 2017-10-18 02:59:45-0700
+]0;004741853@jb358-1:~/cse330/lab3[004741853@jb358-1 lab3]$ g++ 0c [K[K[K-c String2.cpp String_test.cpp
+]0;004741853@jb358-1:~/cse330/lab3[004741853@jb358-1 lab3]$ g++ String2.o String_test.o
+]0;004741853@jb358-1:~/cse330/lab3[004741853@jb358-1 lab3]$ ./a.out
+SUCCESS
+]0;004741853@jb358-1:~/cse330/lab3[004741853@jb358-1 lab3]$ exit
+exit
+
+Script done on 2017-10-18 03:00:20-0700

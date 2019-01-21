@@ -1,0 +1,65 @@
+Script started on 2017-10-11 00:30:31-0700
+]0;004741853@jb358-1:~/cse330/lab2/bubbleSort[004741853@jb358-1 bubbleSort]$ time ./a.out > bubbleTest
+1000
+
+real	0m4.586s
+user	0m0.014s
+sys	0m0.003s
+]0;004741853@jb358-1:~/cse330/lab2/bubbleSort[004741853@jb358-1 bubbleSort]$ time ./a.out > bubbleTest
+2000
+
+real	0m4.058s
+user	0m0.038s
+sys	0m0.004s
+]0;004741853@jb358-1:~/cse330/lab2/bubbleSort[004741853@jb358-1 bubbleSort]$ time ./a.out > bubbleTestexit[Ktime ./a.out > bubbleTest
+3000
+
+real	0m3.468s
+user	0m0.081s
+sys	0m0.003s
+]0;004741853@jb358-1:~/cse330/lab2/bubbleSort[004741853@jb358-1 bubbleSort]$ time ./a.out > bubbleTest
+4000
+
+real	0m3.679s
+user	0m0.137s
+sys	0m0.006s
+]0;004741853@jb358-1:~/cse330/lab2/bubbleSort[004741853@jb358-1 bubbleSort]$ time ./a.out > bubbleTest
+5000
+
+real	0m3.849s
+user	0m0.207s
+sys	0m0.009s
+]0;004741853@jb358-1:~/cse330/lab2/bubbleSort[004741853@jb358-1 bubbleSort]$ time ./a.out > bubbleTest
+6000
+
+real	0m4.042s
+user	0m0.302s
+sys	0m0.008s
+]0;004741853@jb358-1:~/cse330/lab2/bubbleSort[004741853@jb358-1 bubbleSort]$ time ./a.out > bubbleTest
+7000
+
+real	0m7.068s
+user	0m0.409s
+sys	0m0.009s
+]0;004741853@jb358-1:~/cse330/lab2/bubbleSort[004741853@jb358-1 bubbleSort]$ time ./a.out > bubbleTest
+8000
+
+real	0m3.279s
+user	0m0.531s
+sys	0m0.012s
+]0;004741853@jb358-1:~/cse330/lab2/bubbleSort[004741853@jb358-1 bubbleSort]$ time ./a.out > bubbleTest
+9000
+
+real	0m3.284s
+user	0m0.669s
+sys	0m0.014s
+]0;004741853@jb358-1:~/cse330/lab2/bubbleSort[004741853@jb358-1 bubbleSort]$ time ./a.out > bubbleTest
+10000
+
+real	0m4.428s
+user	0m0.828s
+sys	0m0.013s
+]0;004741853@jb358-1:~/cse330/lab2/bubbleSort[004741853@jb358-1 bubbleSort]$ exit
+exit
+
+Script done on 2017-10-11 00:33:11-0700

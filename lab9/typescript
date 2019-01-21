@@ -1,0 +1,15 @@
+Script started on 2017-11-29 00:28:59-0800
+]0;004741853@jb358-1:~/cse330/lab9[004741853@jb358-1 lab9]$ g++ priority)[K_queue.h
+]0;004741853@jb358-1:~/cse330/lab9[004741853@jb358-1 lab9]$ g++p_queue p_queue[C[C[C[C[C[C[C_test.cpp
+]0;004741853@jb358-1:~/cse330/lab9[004741853@jb358-1 lab9]$ g++ test.cpp[K[K[K[K[K[K[K[K[K[K[K[K./a.out
+All tests passed.
+]0;004741853@jb358-1:~/cse330/lab9[004741853@jb358-1 lab9]$ g++ test.cpp
+]0;004741853@jb358-1:~/cse330/lab9[004741853@jb358-1 lab9]$ ./a.out
+2
+3
+4
+4 2 3 
+]0;004741853@jb358-1:~/cse330/lab9[004741853@jb358-1 lab9]$ exit
+exit
+
+Script done on 2017-11-29 00:30:05-0800

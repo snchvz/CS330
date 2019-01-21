@@ -1,0 +1,65 @@
+Script started on 2017-10-11 00:54:29-0700
+]0;004741853@jb358-1:~/cse330/lab2/insertSort[004741853@jb358-1 insertSort]$ time ./a.out > insertS[KTest
+1000
+
+real	0m8.176s
+user	0m0.016s
+sys	0m0.003s
+]0;004741853@jb358-1:~/cse330/lab2/insertSort[004741853@jb358-1 insertSort]$ time ./a.out > insertTest
+2000
+
+real	0m2.134s
+user	0m0.045s
+sys	0m0.004s
+]0;004741853@jb358-1:~/cse330/lab2/insertSort[004741853@jb358-1 insertSort]$ time ./a.out > insertTest
+3000
+
+real	0m3.529s
+user	0m0.090s
+sys	0m0.004s
+]0;004741853@jb358-1:~/cse330/lab2/insertSort[004741853@jb358-1 insertSort]$ time ./a.out > insertTest
+4000
+
+real	0m2.723s
+user	0m0.155s
+sys	0m0.007s
+]0;004741853@jb358-1:~/cse330/lab2/insertSort[004741853@jb358-1 insertSort]$ time ./a.out > insertTest
+5000
+
+real	0m2.832s
+user	0m0.241s
+sys	0m0.007s
+]0;004741853@jb358-1:~/cse330/lab2/insertSort[004741853@jb358-1 insertSort]$ time ./a.out > insertTest
+6000
+
+real	0m3.551s
+user	0m0.341s
+sys	0m0.008s
+]0;004741853@jb358-1:~/cse330/lab2/insertSort[004741853@jb358-1 insertSort]$ time ./a.out > insertTest
+7000
+
+real	0m3.438s
+user	0m0.459s
+sys	0m0.012s
+]0;004741853@jb358-1:~/cse330/lab2/insertSort[004741853@jb358-1 insertSort]$ time ./a.out > insertTest
+8000
+
+real	0m3.213s
+user	0m0.600s
+sys	0m0.012s
+]0;004741853@jb358-1:~/cse330/lab2/insertSort[004741853@jb358-1 insertSort]$ time ./a.out > insertTest
+9000
+
+real	0m3.371s
+user	0m0.758s
+sys	0m0.011s
+]0;004741853@jb358-1:~/cse330/lab2/insertSort[004741853@jb358-1 insertSort]$ time ./a.out > insertTest
+10000
+
+real	0m4.931s
+user	0m0.936s
+sys	0m0.009s
+]0;004741853@jb358-1:~/cse330/lab2/insertSort[004741853@jb358-1 insertSort]$ exit
+exit
+
+Script done on 2017-10-11 00:55:55-0700

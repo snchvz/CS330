@@ -1,0 +1,17 @@
+Script started on 2017-11-22 01:13:53-0800
+]0;004741853@jb358-1:~/cse330/lab8[004741853@jb358-1 lab8]$ g++ test.cpp
+]0;004741853@jb358-1:~/cse330/lab8[004741853@jb358-1 lab8]$ ./a.out
+10
+9
+8
+6
+11
+All tests passed
+]0;004741853@jb358-1:~/cse330/lab8[004741853@jb358-1 lab8]$ g++ test[K[K[K[Kset_test.cpp
+]0;004741853@jb358-1:~/cse330/lab8[004741853@jb358-1 lab8]$ ./a.out
+a.out: set_test.cpp:46: int main(): Assertion `*iter == 6' failed.
+Aborted (core dumped)
+]0;004741853@jb358-1:~/cse330/lab8[004741853@jb358-1 lab8]$ exit
+exit
+
+Script done on 2017-11-22 01:14:22-0800

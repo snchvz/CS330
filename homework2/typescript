@@ -1,0 +1,24 @@
+Script started on 2017-10-18 02:48:33-0700
+]0;004741853@jb358-1:~/cse330/homework2[004741853@jb358-1 homework2]$ g++ -c modulo.cpp
+]0;004741853@jb358-1:~/cse330/homework2[004741853@jb358-1 homework2]$ g++ -c modulo_test.cpp
+]0;004741853@jb358-1:~/cse330/homework2[004741853@jb358-1 homework2]$ g++ -[Kmodulo.o modulo_ts[Kest.o
+]0;004741853@jb358-1:~/cse330/homework2[004741853@jb358-1 homework2]$ ./a.out
+o = 3 p = 1
+p = 3
+p = 3
+p = 4
+p = 0
+q = 0
+r = 1 s = 1
+r = 2 s = 1
+t = 0
+t = 2
+u = 0
+v = 2
+v = 4
+]0;004741853@jb358-1:~/cse330/homework2[004741853@jb358-1 homework2]$ ls
+[0m[01;32ma.out[0m  modulo.cpp  modulo.h  modulo.o  modulo_test.cpp  modulo_test.o  typescript
+]0;004741853@jb358-1:~/cse330/homework2[004741853@jb358-1 homework2]$ exit
+exit
+
+Script done on 2017-10-18 02:49:09-0700

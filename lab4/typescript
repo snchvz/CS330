@@ -1,0 +1,10 @@
+Script started on 2017-10-25 02:27:15-0700
+]0;004741853@jb358-2:~/cse330/lab4[004741853@jb358-2 lab4]$ g++ V[Kvector.h
+]0;004741853@jb358-2:~/cse330/lab4[004741853@jb358-2 lab4]$ g++ vector_test.cpp
+/tmp/ccGFzF5Q.o: In function `main':
+vector_test.cpp:(.text+0x93): undefined reference to `Vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >::size() const'
+collect2: error: ld returned 1 exit status
+]0;004741853@jb358-2:~/cse330/lab4[004741853@jb358-2 lab4]$ exit
+exit
+
+Script done on 2017-10-25 02:27:32-0700

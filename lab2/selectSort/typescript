@@ -1,0 +1,65 @@
+Script started on 2017-10-11 00:56:44-0700
+]0;004741853@jb358-1:~/cse330/lab2/selectSort[004741853@jb358-1 selectSort]$ time ./a.out > selectTest
+1000
+
+real	0m2.892s
+user	0m0.018s
+sys	0m0.002s
+]0;004741853@jb358-1:~/cse330/lab2/selectSort[004741853@jb358-1 selectSort]$ time ./a.out > selectTest
+2000
+
+real	0m4.319s
+user	0m0.044s
+sys	0m0.003s
+]0;004741853@jb358-1:~/cse330/lab2/selectSort[004741853@jb358-1 selectSort]$ time ./a.out > selectTest
+3000
+
+real	0m2.337s
+user	0m0.091s
+sys	0m0.004s
+]0;004741853@jb358-1:~/cse330/lab2/selectSort[004741853@jb358-1 selectSort]$ time ./a.out > selectTest
+4000
+
+real	0m4.594s
+user	0m0.157s
+sys	0m0.005s
+]0;004741853@jb358-1:~/cse330/lab2/selectSort[004741853@jb358-1 selectSort]$ time ./a.out > selectTest
+5000
+
+real	0m2.417s
+user	0m0.237s
+sys	0m0.008s
+]0;004741853@jb358-1:~/cse330/lab2/selectSort[004741853@jb358-1 selectSort]$ time ./a.out > selectTest
+6000
+
+real	0m3.977s
+user	0m0.335s
+sys	0m0.010s
+]0;004741853@jb358-1:~/cse330/lab2/selectSort[004741853@jb358-1 selectSort]$ time ./a.out > selectTest
+7000
+
+real	0m2.999s
+user	0m0.456s
+sys	0m0.014s
+]0;004741853@jb358-1:~/cse330/lab2/selectSort[004741853@jb358-1 selectSort]$ time ./a.out > selectTest
+8000
+
+real	0m5.003s
+user	0m0.600s
+sys	0m0.009s
+]0;004741853@jb358-1:~/cse330/lab2/selectSort[004741853@jb358-1 selectSort]$ time ./a.out > selectTest
+9000
+
+real	0m4.498s
+user	0m0.755s
+sys	0m0.012s
+]0;004741853@jb358-1:~/cse330/lab2/selectSort[004741853@jb358-1 selectSort]$ time ./a.out > selectTest
+10000
+
+real	0m4.249s
+user	0m0.929s
+sys	0m0.013s
+]0;004741853@jb358-1:~/cse330/lab2/selectSort[004741853@jb358-1 selectSort]$ exit
+exit
+
+Script done on 2017-10-11 00:58:49-0700
